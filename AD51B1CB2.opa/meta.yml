@@ -1,0 +1,19 @@
+id: AD51B1CB2
+title: Prayer of Aspiration
+type: translation
+pechas:
+- IF2E66B01
+- I093C5340
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:07:23.676391
+  last_modified_at: 2023-01-04 12:07:23.676396
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IF2E66B01/D729: B043
+  I093C5340/A608: B043
